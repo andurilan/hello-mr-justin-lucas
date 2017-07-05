@@ -1,3 +1,3 @@
-**Hello, Operator**
+**Hello, Operator.**
 
 "# hello-mr-justin-lucas" 
