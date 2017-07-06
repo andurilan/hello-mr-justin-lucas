@@ -2,7 +2,7 @@
 
 _Give execute permission to your script:_
 ````
-chmod +x /opt/initial/permit.sh
+sudo chmod +x /opt/initial/permit.sh
 ````
 .
 
