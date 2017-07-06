@@ -1,8 +1,8 @@
 **Hello, Operator.**
 
-_Give execute permission to your script_
+_Give execute permission to your script:_
 ````
-chmod +x /path/to/yourscript.sh
+chmod +x /opt/initial/permit.sh
 ````
 .
 
